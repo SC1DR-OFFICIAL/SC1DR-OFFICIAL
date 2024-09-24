@@ -29,7 +29,7 @@ In addition to my academic background, I have completed several professional dev
 - **Scripting**: Bash
 - **Computer Networks**
 - **Web Development**: HTML, CSS, JavaScript
-- **Programming Languages**: C#, Python
+- **Programming Languages**: C#, C, Python
 - **Object-Oriented Programming (OOP)**
 - **Embedded Systems**: Arduino
 - **Video Editing**: Adobe Premiere Pro, Adobe After Effects, DaVinci Resolve
