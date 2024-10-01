@@ -65,7 +65,3 @@ In my free time, I enjoy:
 - Following several **streamers**
 
 I’m always open to **new connections** and **conversations**!
-
----
-
-Let me know if you’d like any more changes!
