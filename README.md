@@ -1,10 +1,12 @@
 ## 💼 Projects:
 - **[@Tashkent_estate_bot](https://t.me/Tashkent_estate_bot)** — Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions.
+- **[@LaspheraEducationBot](https://t.me/LaspheraEducationBot)** — Telegram bot for «Lasphera Education», with which you can follow updates, sign up for a webinar or course.
 - **Landing bots for holding conferences** "VZO Digital Day 2023", "Best in Finance 2024".
 
 ## 🏢 Worked with companies:
-- **TERNEX** (Current since September 2024) — System administration, development of network applications.
-- **ProCamp** (2021-2024) — Started a career while studying at the Faculty of Mathematics. Worked as a video editor, studied programming and developed Bots for the company's projects. For example, the "Landing" Bot for the conferences "VZO Digital Day 2023", "Best in Finance 2024" and others.
+- **Lasphera Education** – School of interior design design in Autodesk Revit.
+- **TERNEX** – network software manufacturer.
+- **ProCamp** – Aggregator of financial and educational services.
 
 ## 🧑‍💻 About me:
 I am a developer with a bachelor's degree in mathematics and computer science, currently studying for a master's degree. I also have a good knowledge base in mathematics, especially in higher algebra and mathematical logic. The main vector of my development is Data Science and AI.
