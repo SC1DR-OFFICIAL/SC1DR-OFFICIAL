@@ -5,7 +5,7 @@
 
 ## 🏢 Worked with companies:
 - **Lasphera Education** – School of interior design design in Autodesk Revit.
-- **TERNEX** – network software manufacturer.
+- **TERNEX** – Network software manufacturer.
 - **ProCamp** – Aggregator of financial and educational services.
 
 ## 🧑‍💻 About me:
