@@ -1,9 +1,12 @@
 ## 💼 Projects:
+- **[@skillpro_level1_bot](https://t.me/skillpro_lobby_bot)** — SkillPro ecosystem login bot. It automatically generates a student ID card, which can be used to connect to the necessary chats via unique links.
+- **[@skillpro_level1_bot](https://t.me/skillpro_level1_bot)** — An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game.
 - **[@Tashkent_estate_bot](https://t.me/Tashkent_estate_bot)** — Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions.
 - **[@LaspheraEducationBot](https://t.me/LaspheraEducationBot)** — Telegram bot for «Lasphera Education», with which you can follow updates, sign up for a webinar or course.
 - **Landing bots for holding conferences** "VZO Digital Day 2023", "Best in Finance 2024".
 
 ## 🏢 Worked with companies:
+- **SKillPro** – EdTech Startup
 - **Lasphera Education** – School of interior design design in Autodesk Revit.
 - **TERNEX** – Network software manufacturer.
 - **ProCamp** – Aggregator of financial and educational services.
