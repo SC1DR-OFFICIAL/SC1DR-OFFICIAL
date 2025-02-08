@@ -1,4 +1,5 @@
 ## 💼 Projects:
+- **[@olx_tashkent_bot](https://t.me/olx_tashkent_bot)** — Parser of real estate website by categories and tags specified by realtor.
 - **[@skillpro_lobby_bot](https://t.me/skillpro_lobby_bot)** — SkillPro ecosystem login bot. It automatically generates a student ID card, which can be used to connect to the necessary chats via unique links.
 - **[@skillpro_level1_bot](https://t.me/skillpro_level1_bot)** — An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game.
 - **[@Tashkent_estate_bot](https://t.me/Tashkent_estate_bot)** — Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions.
