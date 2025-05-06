@@ -1,4 +1,5 @@
 ## 💼 Projects:
+- **[@ChildSportBot](https://t.me/ChildSportBot)** — Social project in the field of children's sports "How to raise an Olympic champion".
 - **[@EVOGENESIS](https://t.me/evogenesis_bot)** — AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
 - **[@olx_tashkent_bot](https://t.me/olx_tashkent_bot)** — Parser of real estate website by categories and tags specified by realtor.
 - **[@skillpro_lobby_bot](https://t.me/skillpro_lobby_bot)** — SkillPro ecosystem login bot. It automatically generates a student ID card, which can be used to connect to the necessary chats via unique links.
