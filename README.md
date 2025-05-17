@@ -1,4 +1,5 @@
 ## 💼 Projects:
+- **[Real-Estate-Legal-Advisor-AI ](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)** — Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation..
 - **[@ChildSportBot](https://t.me/ChildSportBot)** — Social project in the field of children's sports "How to raise an Olympic champion".
 - **[@EVOGENESIS](https://t.me/evogenesis_bot)** — AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
 - **[@olx_tashkent_bot](https://t.me/olx_tashkent_bot)** — Parser of real estate website by categories and tags specified by realtor.
