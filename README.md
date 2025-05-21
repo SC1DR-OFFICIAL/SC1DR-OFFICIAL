@@ -20,10 +20,11 @@
 I am a developer with a bachelor's degree in mathematics and computer science, currently studying for a master's degree. I also have a good knowledge base in mathematics, especially in higher algebra and mathematical logic. The main vector of my development is Data Science and AI.
 
 ## 🔧 Skills:
-- **Relational databases**: PostgreSQL, SQLite
-- **Web framework**: Django
+- **AI frameworks & tools**: LLaMAIndex, Phoenix, RAG systems, LoRA
 - **Data Science**
 - **Neural networks**
+- **Relational databases**: PostgreSQL, SQLite
+- **Web framework**: Django, FastAPI
 - **Version control systems**: Git
 - **Containerization**: Docker
 - **Scripting**: Bash
