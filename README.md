@@ -8,7 +8,7 @@ ML-engineer
 * 🤝  I'm open to collaborating on ML Projects
 
 🧑‍💻 About me:
-I have a Master's degree in Mathematics and Computer Science, and am currently pursuing a PhD. I have been working in IT as a freelance programmer for 1 year, having worked as a video editor for 3 years before that. This experience has allowed me to develop both technical and creative skills, and has taught me to approach problems from an unconventional angle. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
+I have a Master's degree in Mathematics and Computer Science, and am currently applying for postgraduate studies. I have been working in IT as a freelance programmer for 1 year, having worked as a video editor for 3 years before that. This experience has allowed me to develop both technical and creative skills, and has taught me to approach problems from an unconventional angle. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
 
 Ever since my school years, I have dreamed of creating artificial intelligence, and now, with fundamental knowledge of mathematics, I have been seriously studying AI for a year now.
 
