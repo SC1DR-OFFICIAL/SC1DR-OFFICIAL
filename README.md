@@ -44,7 +44,12 @@ Telegram bot that will help you find an apartment in the center of Tashkent by a
 **Stack**: Python, Requests, Telegram API, Sqlite 
 
 ## PET Projects:
-- **[Real-Estate-Legal-Advisor-AI](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)** — Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
+### 📌**[Real-Estate-Legal-Advisor-AI](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)** 
+
+Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
+
+**Stack**: Python 3 + Jupyter Notebook, TensorFlow 2 (Keras API), OpenCV-Python (cv2), NumPy, scikit-learn, matplotlib 
+
 - **[WatermarkAutoencoder-AI](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)** — An autoencoder that reconstructs images distorted by watermarks.
 
   
