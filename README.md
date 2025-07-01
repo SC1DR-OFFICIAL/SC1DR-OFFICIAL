@@ -36,7 +36,6 @@ Social project in the field of children's sports "How to raise an Olympic champi
 
 -----------
 
-
 ### **EVOGENESIS** 
 
 AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
@@ -44,16 +43,16 @@ AI assistant with GPT: chat with memory, text and image generation, plus persona
 **Stack**: Python, Aiogram 3, OpenAI, Posgresql
 
 [Link](https://t.me/evogenesis_bot)
------------
 
+-----------
     
 ### **OLX Tashkent Parser**
 
 Parser of real estate website by categories and tags specified by realtor.
 
 **Stack**: Python, Aiogram 3, Aiohttp, bs4
------------
 
+-----------
 
 ### **SkillPro Level 1**
 
@@ -62,8 +61,8 @@ An educational bot game with multiple branches, a payment system in Telegram Sta
 **Stack**: Python, Aiogram 3, Aiohttp, Posgresql 
 
 [Link](https://t.me/skillpro_level1_bot)
------------
 
+-----------
 
 ### **Tashkent Estate**
 
@@ -72,8 +71,8 @@ Telegram bot that will help you find an apartment in the center of Tashkent by a
 **Stack**: Python, Requests, Telegram API, Sqlite 
 
 [Link](https://t.me/Tashkent_estate_bot)
------------
 
+-----------
 
 # PET Projects:
 ### **Real-Estate-Legal-Advisor-AI** 
@@ -83,8 +82,8 @@ Intelligent legal assistant for real estate based on the RAG system with integra
 **Stack**: Python 3 + Jupyter Notebook, llama_index, llama-index-embeddings-huggingface, OpenAI, Yandex Cloud ML SDK, FAISS, sentence_transformers, Arize Phoenix + OpenInference + OpenTelemetry, NLTK, NumPy, pyngrok
 
 [Project link](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)
------------
 
+-----------
 
 ### **WatermarkAutoencoder-AI**
 
@@ -93,10 +92,10 @@ An autoencoder that reconstructs images distorted by watermarks.
 **Stack**: Python 3 + Jupyter Notebook, TensorFlow 2 (Keras API), OpenCV-Python (cv2), NumPy, scikit-learn, matplotlib 
 
 [Project Link](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
+
 -----------
 
-
-## 📖 Education:
+# 📖 Education:
 1. **Altai State University**, "Mathematics and Computer Science", 2019-2023, bachelor's degree.
 2. **Altai State University**, "Mathematics and Computer Science", 2023-2025, master's degree.
 
