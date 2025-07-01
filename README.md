@@ -12,53 +12,6 @@ I have a Master's degree in Mathematics and Computer Science, and am currently p
 
 Ever since my school years, I have dreamed of creating artificial intelligence, and now, with fundamental knowledge of mathematics, I have been seriously studying AI for a year now.
 
-## Telegram Bots:
-### 📌 **[@ChildSportBot](https://t.me/ChildSportBot)**
-
-Social project in the field of children's sports "How to raise an Olympic champion".
-
-**Stack**: Python, Aiogram 3, OpenAI, Posgresql
-  
-### 📌 **[@EVOGENESIS](https://t.me/evogenesis_bot)** 
-
-AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
-
-**Stack**: Python, Aiogram 3, OpenAI, Posgresql
-    
-### 📌 **[@olx_tashkent_bot](https://t.me/olx_tashkent_bot)**
-
-Parser of real estate website by categories and tags specified by realtor.
-
-**Stack**: Python, Aiogram 3, Aiohttp, bs4
-
-### 📌 **[@skillpro_level1_bot](https://t.me/skillpro_level1_bot)**
-
-An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game.
-
-**Stack**: Python, Aiogram 3, Aiohttp, Posgresql 
-
-### 📌 **[@Tashkent_estate_bot](https://t.me/Tashkent_estate_bot)**
-
-Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions.
-
-**Stack**: Python, Requests, Telegram API, Sqlite 
-
-## PET Projects:
-### 📌**[Real-Estate-Legal-Advisor-AI](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)** 
-
-Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
-
-**Stack**: Python 3 + Jupyter Notebook, TensorFlow 2 (Keras API), OpenCV-Python (cv2), NumPy, scikit-learn, matplotlib 
-
-- **[WatermarkAutoencoder-AI](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)** — An autoencoder that reconstructs images distorted by watermarks.
-
-  
-## 🏢 Worked with companies and startup's:
-- **SKillPro** – EdTech Startup
-- **Lasphera Education** – School of interior design design in Autodesk Revit.
-- **TERNEX** – Network software manufacturer.
-- **ProCamp** – Aggregator of financial and educational services.
-
 ## 🔧 Skills:
 - **AI frameworks & tools**: LLaMAIndex, Phoenix, RAG systems, LoRA, GAN
 - **Relational databases**: PostgreSQL, SQLite
@@ -70,6 +23,50 @@ Intelligent legal assistant for real estate based on the RAG system with integra
 - **Programming languages**: C#, Python
 - **Video editing**: Adobe Premiere Pro, Adobe After Effects, DaVinci Resolve
 
+## Telegram Bots:
+### 📌 **Child Sports**
+
+Social project in the field of children's sports "How to raise an Olympic champion". [Bot link.](https://t.me/ChildSportBot)
+
+**Stack**: Python, Aiogram 3, OpenAI, Posgresql
+  
+### 📌 **EVOGENESIS** 
+
+AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking. [Bot link.](https://t.me/evogenesis_bot)
+
+**Stack**: Python, Aiogram 3, OpenAI, Posgresql
+    
+### 📌 **OLX Tashkent Parser**
+
+Parser of real estate website by categories and tags specified by realtor.
+
+**Stack**: Python, Aiogram 3, Aiohttp, bs4
+
+### 📌 **SkillPro Level 1**
+
+An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game. [Bot link.](https://t.me/skillpro_level1_bot)
+
+**Stack**: Python, Aiogram 3, Aiohttp, Posgresql 
+
+### 📌 **Tashkent Estate**
+
+Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions. [Bot link.](https://t.me/Tashkent_estate_bot)
+
+**Stack**: Python, Requests, Telegram API, Sqlite 
+
+## PET Projects:
+### 📌 **Real-Estate-Legal-Advisor-AI** 
+
+Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation. [Project link.](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)
+
+**Stack**: Python 3 + Jupyter Notebook, llama_index, llama-index-embeddings-huggingface, OpenAI, Yandex Cloud ML SDK, FAISS, sentence_transformers, Arize Phoenix + OpenInference + OpenTelemetry, NLTK, NumPy, pyngrok
+
+### 📌 **WatermarkAutoencoder-AI**
+
+An autoencoder that reconstructs images distorted by watermarks. [Project Link.](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
+
+**Stack**: Python 3 + Jupyter Notebook, TensorFlow 2 (Keras API), OpenCV-Python (cv2), NumPy, scikit-learn, matplotlib 
+  
 
 ## 📖 Education:
 1. **Altai State University**, "Mathematics and Computer Science", 2019-2023, bachelor's degree.
