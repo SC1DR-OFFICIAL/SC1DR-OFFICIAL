@@ -12,7 +12,7 @@ I have a Master's degree in Mathematics and Computer Science, and am currently p
 
 Ever since my school years, I have dreamed of creating artificial intelligence, and now, with fundamental knowledge of mathematics, I have been seriously studying AI for a year now.
 
-## Frilance Projects:
+## Freelance Projects:
 - **[@ChildSportBot](https://t.me/ChildSportBot)** — Social project in the field of children's sports "How to raise an Olympic champion".
 - **[@EVOGENESIS](https://t.me/evogenesis_bot)** — AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
 - **[@olx_tashkent_bot](https://t.me/olx_tashkent_bot)** — Parser of real estate website by categories and tags specified by realtor.
