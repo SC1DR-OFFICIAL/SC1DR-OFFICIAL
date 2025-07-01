@@ -23,6 +23,27 @@ Ever since my school years, I have dreamed of creating artificial intelligence, 
 - **Programming languages**: C#, Python
 - **Video editing**: Adobe Premiere Pro, Adobe After Effects, DaVinci Resolve
 
+-----------
+
+## PET Projects:
+### **Real-Estate-Legal-Advisor-AI** 
+
+Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
+
+**Stack**: Python 3 + Jupyter Notebook, llama_index, llama-index-embeddings-huggingface, OpenAI, Yandex Cloud ML SDK, FAISS, sentence_transformers, Arize Phoenix + OpenInference + OpenTelemetry, NLTK, NumPy, pyngrok
+
+[Project link](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)
+
+-----------
+
+### **WatermarkAutoencoder-AI**
+
+An autoencoder that reconstructs images distorted by watermarks.
+
+**Stack**: Python 3 + Jupyter Notebook, TensorFlow 2 (Keras API), OpenCV-Python (cv2), NumPy, scikit-learn, matplotlib 
+
+[Project Link](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
+
 ## Telegram Bots:
 -----------
 
@@ -71,27 +92,6 @@ Telegram bot that will help you find an apartment in the center of Tashkent by a
 **Stack**: Python, Requests, Telegram API, Sqlite 
 
 [Link](https://t.me/Tashkent_estate_bot)
-
------------
-
-## PET Projects:
-### **Real-Estate-Legal-Advisor-AI** 
-
-Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
-
-**Stack**: Python 3 + Jupyter Notebook, llama_index, llama-index-embeddings-huggingface, OpenAI, Yandex Cloud ML SDK, FAISS, sentence_transformers, Arize Phoenix + OpenInference + OpenTelemetry, NLTK, NumPy, pyngrok
-
-[Project link](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)
-
------------
-
-### **WatermarkAutoencoder-AI**
-
-An autoencoder that reconstructs images distorted by watermarks.
-
-**Stack**: Python 3 + Jupyter Notebook, TensorFlow 2 (Keras API), OpenCV-Python (cv2), NumPy, scikit-learn, matplotlib 
-
-[Project Link](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
 
 -----------
 
