@@ -4,7 +4,7 @@ ML-engineer
 * 🖥️  See [my telegram blog](http://t.me/SC1DR)
 * ✉️  You can contact me at [mail](mailto:sc1dr.official@gmail.com) or [telegram](https://t.me/Xiandr_offc)
 * 🚀  I'm currently working on [NeuroRealtor](http://https://t.me/neurorealtor_ai_bot)
-* 🧠  I'm learning GAN AutoCoders
+* 🧠  I'm currently learning GAN AutoCoders
 * 🤝  I'm open to collaborating on ML Projects
 
 🧑‍💻 About me:
