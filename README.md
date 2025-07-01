@@ -12,15 +12,36 @@ I have a Master's degree in Mathematics and Computer Science, and am currently p
 
 Ever since my school years, I have dreamed of creating artificial intelligence, and now, with fundamental knowledge of mathematics, I have been seriously studying AI for a year now.
 
-## Freelance Projects:
-- **[@ChildSportBot](https://t.me/ChildSportBot)** — Social project in the field of children's sports "How to raise an Olympic champion".
-- **[@EVOGENESIS](https://t.me/evogenesis_bot)** — AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
-- **[@olx_tashkent_bot](https://t.me/olx_tashkent_bot)** — Parser of real estate website by categories and tags specified by realtor.
-- **[@skillpro_lobby_bot](https://t.me/skillpro_lobby_bot)** — SkillPro ecosystem login bot. It automatically generates a student ID card, which can be used to connect to the necessary chats via unique links.
-- **[@skillpro_level1_bot](https://t.me/skillpro_level1_bot)** — An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game.
-- **[@Tashkent_estate_bot](https://t.me/Tashkent_estate_bot)** — Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions.
-- **[@LaspheraEducationBot](https://t.me/LaspheraEducationBot)** — Telegram bot for «Lasphera Education», with which you can follow updates, sign up for a webinar or course.
-- **Landing bots for holding conferences** "VZO Digital Day 2023", "Best in Finance 2024".
+## Telegram Bots:
+### 📌 **[@ChildSportBot](https://t.me/ChildSportBot)**
+
+Social project in the field of children's sports "How to raise an Olympic champion".
+
+**Stack**: Python, Aiogram 3, OpenAI, Posgresql
+  
+### 📌 **[@EVOGENESIS](https://t.me/evogenesis_bot)** 
+
+AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
+
+**Stack**: Python, Aiogram 3, OpenAI, Posgresql
+    
+### 📌 **[@olx_tashkent_bot](https://t.me/olx_tashkent_bot)**
+
+Parser of real estate website by categories and tags specified by realtor.
+
+**Stack**: Python, Aiogram 3, Aiohttp, bs4
+
+### 📌 **[@skillpro_level1_bot](https://t.me/skillpro_level1_bot)**
+
+An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game.
+
+**Stack**: Python, Aiogram 3, Aiohttp, Posgresql 
+
+### 📌 **[@Tashkent_estate_bot](https://t.me/Tashkent_estate_bot)**
+
+Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions.
+
+**Stack**: Python, Requests, Telegram API, Sqlite 
 
 ## PET Projects:
 - **[Real-Estate-Legal-Advisor-AI](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)** — Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
