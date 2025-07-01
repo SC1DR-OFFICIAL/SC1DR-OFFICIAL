@@ -12,7 +12,7 @@ I have a Master's degree in Mathematics and Computer Science, and am currently p
 
 Ever since my school years, I have dreamed of creating artificial intelligence, and now, with fundamental knowledge of mathematics, I have been seriously studying AI for a year now.
 
-## 🔧 Skills:
+# 🔧 Skills:
 - **AI frameworks & tools**: LLaMAIndex, Phoenix, RAG systems, LoRA, GAN
 - **Relational databases**: PostgreSQL, SQLite
 - **Web framework**: Django, FastAPI
@@ -23,7 +23,7 @@ Ever since my school years, I have dreamed of creating artificial intelligence, 
 - **Programming languages**: C#, Python
 - **Video editing**: Adobe Premiere Pro, Adobe After Effects, DaVinci Resolve
 
-## Telegram Bots:
+# Telegram Bots:
 -----------
 
 ### **Child Sports**
@@ -75,7 +75,7 @@ Telegram bot that will help you find an apartment in the center of Tashkent by a
 -----------
 
 
-## PET Projects:
+# PET Projects:
 ### **Real-Estate-Legal-Advisor-AI** 
 
 Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
