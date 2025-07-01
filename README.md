@@ -26,13 +26,17 @@ Ever since my school years, I have dreamed of creating artificial intelligence, 
 ## Telegram Bots:
 ### 📌 **Child Sports**
 
-Social project in the field of children's sports "How to raise an Olympic champion". [Bot link.](https://t.me/ChildSportBot)
+Social project in the field of children's sports "How to raise an Olympic champion".
+
+[Link](https://t.me/ChildSportBot)
 
 **Stack**: Python, Aiogram 3, OpenAI, Posgresql
   
 ### 📌 **EVOGENESIS** 
 
-AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking. [Bot link.](https://t.me/evogenesis_bot)
+AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
+
+[Link](https://t.me/evogenesis_bot)
 
 **Stack**: Python, Aiogram 3, OpenAI, Posgresql
     
@@ -44,26 +48,34 @@ Parser of real estate website by categories and tags specified by realtor.
 
 ### 📌 **SkillPro Level 1**
 
-An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game. [Bot link.](https://t.me/skillpro_level1_bot)
+An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game. 
+
+[Link](https://t.me/skillpro_level1_bot)
 
 **Stack**: Python, Aiogram 3, Aiohttp, Posgresql 
 
 ### 📌 **Tashkent Estate**
 
-Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions. [Bot link.](https://t.me/Tashkent_estate_bot)
+Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions. 
+
+[Link](https://t.me/Tashkent_estate_bot)
 
 **Stack**: Python, Requests, Telegram API, Sqlite 
 
 ## PET Projects:
 ### 📌 **Real-Estate-Legal-Advisor-AI** 
 
-Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation. [Project link.](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)
+Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
+
+[Project link](https://github.com/SC1DR-OFFICIAL/Real-Estate-Legal-Advisor-AI)
 
 **Stack**: Python 3 + Jupyter Notebook, llama_index, llama-index-embeddings-huggingface, OpenAI, Yandex Cloud ML SDK, FAISS, sentence_transformers, Arize Phoenix + OpenInference + OpenTelemetry, NLTK, NumPy, pyngrok
 
 ### 📌 **WatermarkAutoencoder-AI**
 
-An autoencoder that reconstructs images distorted by watermarks. [Project Link.](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
+An autoencoder that reconstructs images distorted by watermarks.
+
+[Project Link](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
 
 **Stack**: Python 3 + Jupyter Notebook, TensorFlow 2 (Keras API), OpenCV-Python (cv2), NumPy, scikit-learn, matplotlib 
   
