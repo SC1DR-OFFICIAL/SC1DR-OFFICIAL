@@ -42,7 +42,7 @@ DCGAN for generating clothing images from Fashion‑MNIST.
 
 **Stack**: Python 3 + Jupyter Notebook, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Pillow, imageio, OpenCV
 
-[Project link](https://github.com/SC1DR-OFFICIAL/GAN-MNIST-Fashion))
+[Project link](https://github.com/SC1DR-OFFICIAL/GAN-MNIST-Fashion)
 
 -----------
 
