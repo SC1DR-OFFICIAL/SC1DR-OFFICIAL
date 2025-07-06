@@ -36,6 +36,16 @@ Intelligent legal assistant for real estate based on the RAG system with integra
 
 -----------
 
+### **GAN-MNIST-Fashion** 
+
+DCGAN for generating clothing images from Fashion‑MNIST.
+
+**Stack**: Python 3 + Jupyter Notebook, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Pillow, imageio, OpenCV
+
+[Project link](https://github.com/SC1DR-OFFICIAL/GAN-MNIST-Fashion))
+
+-----------
+
 ### **WatermarkAutoencoder-AI**
 
 An autoencoder that reconstructs images distorted by watermarks.
