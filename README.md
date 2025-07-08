@@ -55,6 +55,15 @@ An autoencoder that reconstructs images distorted by watermarks.
 [Project Link](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
 
 ## Telegram Bots:
+
+### **Telegram Star Invoice**
+
+Bill your clients in Telegram Stars (XTR) with just one command.
+
+**Stack**: Python, Aiogram 3, Aiosqlite
+
+[Link](https://github.com/SC1DR-OFFICIAL/TG-Star-Invoice-Bot)
+
 -----------
 
 ### **Child Sports**
