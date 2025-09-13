@@ -25,6 +25,19 @@ Ever since my school years, I have dreamed of creating artificial intelligence, 
 -----------
 
 ## PET Projects:
+
+### **Simple-RL-for-Atari-MsPacman**
+
+Research project on reinforcement learning (RL) algorithms applied to the Atari game **MsPacman**.  
+Implements and compares several classic RL strategies: **Policy Gradient (REINFORCE), Random Search, Hill Climbing, Evolution Strategies, PPO**.  
+Includes visualization of training progress and video recordings of the best episodes.
+
+**Stack**: Python 3 + Jupyter Notebook, PyTorch, Gymnasium + ALE, NumPy, OpenCV, Matplotlib
+
+[Project link](https://github.com/SC1DR-OFFICIAL/Simple-RL-for-Atari-MsPacman)
+
+-----------
+
 ### **Real-Estate-Legal-Advisor-AI** 
 
 Intelligent legal assistant for real estate based on the RAG system with integration of YandexGPT and the legal framework of the Russian Federation.
