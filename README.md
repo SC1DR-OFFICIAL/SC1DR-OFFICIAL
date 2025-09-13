@@ -3,7 +3,6 @@ ML-engineer
 
 * 🖥️  See [my telegram blog](http://t.me/SC1DR)
 * ✉️  You can contact me at [mail](mailto:sc1dr.official@gmail.com) or [telegram](https://t.me/Xiandr_offc)
-* 🚀  I'm currently working on [NeuroRealtor](http://https://t.me/neurorealtor_ai_bot)
 * 🧠  I'm currently learning Tenserflow and Transformers
 * 🤝  I'm open to collaborating on ML Projects
 
