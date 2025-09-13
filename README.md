@@ -29,7 +29,7 @@ Ever since my school years, I have dreamed of creating artificial intelligence, 
 ### **Simple-RL-for-Atari-MsPacman**
 
 Research project on reinforcement learning (RL) algorithms applied to the Atari game **MsPacman**.  
-Implements and compares several classic RL strategies: **Policy Gradient (REINFORCE), Random Search, Hill Climbing, Evolution Strategies, PPO**.  
+Implements and compares several classic RL strategies: **Policy Gradient (REINFORCE), Random Search, Hill Climbing, Evolution Strategies**.  
 Includes visualization of training progress and video recordings of the best episodes.
 
 **Stack**: Python 3 + Jupyter Notebook, PyTorch, Gymnasium + ALE, NumPy, OpenCV, Matplotlib
