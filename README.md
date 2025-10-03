@@ -26,6 +26,22 @@ Ever since my school years, I have dreamed of creating artificial intelligence, 
 
 ## PET Projects:
 
+### **PPO-Panda-Uncertainty**
+
+Research project on applying **Proximal Policy Optimization (PPO)** to control a manipulator robot (**PandaReach-v3**) under conditions of **partial uncertainty**.  
+Two scenarios were studied:  
+- **Clean environment** without noise  
+- **Uncertainty environment** with added Gaussian noise in observations (sensor errors) and actions (actuator inaccuracies)  
+
+The project includes training logs, visualizations of metrics (episode length, average reward, success rate), and demonstration animations of trained agents.
+
+**Stack**: Python 3 + Jupyter Notebook, Stable-Baselines3 (PPO), Gymnasium, panda-gym, NumPy, Matplotlib, TensorBoard, Google Colab
+
+[Project link](https://github.com/SC1DR-OFFICIAL/ppo-panda-uncertainty)
+
+-----------
+
+
 ### **Simple-RL-for-Atari-MsPacman**
 
 Research project on reinforcement learning (RL) algorithms applied to the Atari game **MsPacman**.  
