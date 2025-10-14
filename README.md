@@ -26,6 +26,17 @@ Ever since my school years, I have dreamed of creating artificial intelligence, 
 
 ## PET Projects:
 
+### **AIChatFlutter**
+
+A cross-platform mobile application for interacting with AI, built with Flutter.  
+It allows users to ask questions, save chat history, manage API keys, and ensures secure data storage.
+
+**Stack**: Flutter + Dart, Provider (state management), Hive/SQLite, OpenRouter REST API (openrouter_client), Firebase Analytics / Amplitude, Platform Channels
+
+[Project link](https://github.com/SC1DR-OFFICIAL/AIChatFlutter)
+
+-----------
+
 ### **PPO-Panda-Uncertainty**
 
 Research project on applying **Proximal Policy Optimization (PPO)** to control a manipulator robot (**PandaReach-v3**) under conditions of **partial uncertainty**.  
