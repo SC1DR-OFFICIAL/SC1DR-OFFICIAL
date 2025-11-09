@@ -12,7 +12,7 @@ I have a Master's degree in Mathematics and Computer Science, and i am currently
 Ever since my school years, I have dreamed of creating artificial intelligence, and now, with fundamental knowledge of mathematics, I have been seriously studying AI for a year now.
 
 ## 🔧 Skills:
-- **AI frameworks & tools**: LLaMAIndex, Phoenix, RAG systems, LoRA, GAN
+- **AI frameworks & tools**: OpenCV, RAG systems, GAN
 - **Relational databases**: PostgreSQL, SQLite
 - **Web framework**: Django, FastAPI
 - **Version control systems**: Git
