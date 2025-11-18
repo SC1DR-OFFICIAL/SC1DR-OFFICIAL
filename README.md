@@ -164,4 +164,4 @@ Telegram bot that will help you find an apartment in the center of Tashkent by a
 - **Altai State University**, "Programming in C", advanced training.
 - **Altai State University**, "Programming in Python", advanced training.
 - **Altai State University**, "Data Science and AI", retraining.
-- **The Founder**, "Neural Network Developer", retraining (Currently taking it).
+- **The Founder**, "Neural Network Developer".
