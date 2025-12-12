@@ -1,4 +1,7 @@
-ML-engineer
+## ⚠️ Important Notice
+
+**Friends!** I have lost access to my main Telegram account [@Xiandr_offc](https://t.me/Xiandr_offc). I hope the issue will be resolved, but **for now please use this Telegram account for contact**: [@Puffy_Chaika](https://t.me/Puffy_Chaika)
+
 -----------
 
 🧑‍💻 About me:
