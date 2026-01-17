@@ -1,5 +1,5 @@
 🧑‍💻 About me:
-I hold a Master's degree in Mathematics and Computer Science, and am currently a PhD student conducting research on artificial intelligence and computer vision. I am also open to working and accepting assignments as a programmer and ML engineer. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
+I hold a Master's degree in Mathematics and Computer Science, and am currently a PhD student conducting research on artificial intelligence and computer vision in agricultural technology. I am also open to working and accepting assignments as a programmer and ML engineer. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
 
 ## 🔧 Skills:
 - **AI frameworks**: TensorFlow, Keras, PyTorch, OpenCV
