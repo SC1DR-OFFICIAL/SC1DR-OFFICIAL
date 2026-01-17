@@ -1,7 +1,5 @@
 🧑‍💻 About me:
-I have a Master's degree in Mathematics and Computer Science, and i am currently a graduate student. I have been working in IT as a freelance programmer for 1 year, having worked as a video editor for 3 years before that. This experience has allowed me to develop both technical and creative skills, and has taught me to approach problems from an unconventional angle. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
-
-Ever since my school years, I have dreamed of creating artificial intelligence, and now, with fundamental knowledge of mathematics, I have been seriously studying AI for a year now.
+I hold a Master's degree in Mathematics and Computer Science, and am currently a PhD student conducting research on artificial intelligence and computer vision. I am also open to working and accepting assignments as a programmer and ML engineer. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
 
 ## 🔧 Skills:
 - **AI frameworks**: TensorFlow, Keras, PyTorch, OpenCV
