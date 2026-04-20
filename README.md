@@ -147,6 +147,7 @@ Telegram bot that will help you find an apartment in the center of Tashkent by a
 ## 📖 Education:
 1. **Altai State University**, "Mathematics and Computer Science", 2019-2023, bachelor's degree.
 2. **Altai State University**, "Mathematics and Computer Science", 2023-2025, master's degree.
+3. **Altai State University**, "Mathematical modeling, numerical methods and software packages", 2025-2028, graduate school.
 
 **Additional education (diplomas available):**
 - **Altai State University**, "Programming in C", advanced training.
