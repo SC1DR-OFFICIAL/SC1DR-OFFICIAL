@@ -15,7 +15,7 @@ I hold a Master's degree in Mathematics and Computer Science, and am currently a
 
 -----------
 
-## PET Projects:
+## Projects:
 
 ### **AIChatFlutter**
 
@@ -25,6 +25,16 @@ It allows users to ask questions, save chat history, manage API keys, and ensure
 **Stack**: Flutter + Dart, Provider (state management), Hive/SQLite, OpenRouter REST API (openrouter_client), Firebase Analytics / Amplitude, Platform Channels
 
 [Project link](https://github.com/SC1DR-OFFICIAL/AIChatFlutter)
+
+-----------
+
+### **Tashkent Estate**
+
+Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions. 
+
+**Stack**: Python, Requests, Telegram API, Sqlite 
+
+[Link](https://t.me/Tashkent_estate_bot)
 
 -----------
 
@@ -84,8 +94,6 @@ An autoencoder that reconstructs images distorted by watermarks.
 
 [Project Link](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
 
-## Telegram Bots:
-
 ### **Telegram Star Invoice**
 
 Bill your clients in Telegram Stars (XTR) with just one command.
@@ -131,16 +139,6 @@ An educational bot game with multiple branches, a payment system in Telegram Sta
 **Stack**: Python, Aiogram 3, Aiohttp, Posgresql 
 
 [Link](https://t.me/skillpro_level1_bot)
-
------------
-
-### **Tashkent Estate**
-
-Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions. 
-
-**Stack**: Python, Requests, Telegram API, Sqlite 
-
-[Link](https://t.me/Tashkent_estate_bot)
 
 -----------
 
