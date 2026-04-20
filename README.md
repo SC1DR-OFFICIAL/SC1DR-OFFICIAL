@@ -2,10 +2,8 @@
 I hold a Master's degree in Mathematics and Computer Science, and am currently a PhD student conducting research on artificial intelligence and computer vision in agricultural technology. I am also open to working and accepting assignments as a programmer and ML engineer. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
 
 ## 🔧 Skills:
-- **AI frameworks**: TensorFlow, Keras, PyTorch, OpenCV
-- **Generative Models**: GAN, Autoencoders
-- **Reinforcement Learning**: PPO
-- **RAG Systems**: LlamaIndex, YandexGPT / OpenRouter API integration
+- **AI frameworks**: PyTorch, OpenCV
+- **RAG Systems**: LlamaIndex
 - **Relational databases**: PostgreSQL, SQLite
 - **Web framework**: Django, FastAPI
 - **Version control systems**: Git
