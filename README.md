@@ -17,6 +17,16 @@ I hold a Master's degree in Mathematics and Computer Science, and am currently a
 
 ## Projects:
 
+### **Tashkent real estate ecosystem for realtor Grigory Shif**
+
+A Telegram-based platform that connects the public-facing experience with the team’s internal tools. Clients get a straightforward listings board: filter-based search, subscription options, and up-to-date offers focused on central Tashkent. The realtor and staff work in a CRM for inventory, day-to-day workflows, and AI-assisted handling of inquiries and content. A separate OLX monitoring pipeline, driven by configurable categories and tags, surfaces new and updated marketplace listings quickly. Publishing is wired end-to-end—listings can be pushed to Telegram channels and OLX without manual copy-paste. The system has already served thousands of users and listings.
+
+**Stack**: Python, Aiogram 3, aiohttp, BeautifulSoup4, SQLite (aiosqlite), Pydantic / pydantic-settings, OpenAI API, Google APIs, python-dotenv
+
+[Telegram bot link](https://t.me/Tashkent_estate_bot)
+
+-----------
+
 ### **AIChatFlutter**
 
 A cross-platform mobile application for interacting with AI, built with Flutter.  
@@ -25,16 +35,6 @@ It allows users to ask questions, save chat history, manage API keys, and ensure
 **Stack**: Flutter + Dart, Provider (state management), Hive/SQLite, OpenRouter REST API (openrouter_client), Firebase Analytics / Amplitude, Platform Channels
 
 [Project link](https://github.com/SC1DR-OFFICIAL/AIChatFlutter)
-
------------
-
-### **Tashkent Estate**
-
-Telegram bot that will help you find an apartment in the center of Tashkent by answering a few simple questions. 
-
-**Stack**: Python, Requests, Telegram API, Sqlite 
-
-[Link](https://t.me/Tashkent_estate_bot)
 
 -----------
 
@@ -121,14 +121,6 @@ AI assistant with GPT: chat with memory, text and image generation, plus persona
 **Stack**: Python, Aiogram 3, OpenAI, Posgresql
 
 [Link](https://t.me/evogenesis_bot)
-
------------
-    
-### **OLX Tashkent Parser**
-
-Parser of real estate website by categories and tags specified by realtor.
-
-**Stack**: Python, Aiogram 3, Aiohttp, bs4
 
 -----------
 
