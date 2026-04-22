@@ -1,5 +1,5 @@
 🧑‍💻 About me:
-I hold a Master's degree in Mathematics and Computer Science, and am currently a PhD student conducting research on artificial intelligence and computer vision in agricultural technology. I am also open to working and accepting assignments as a programmer and ML engineer. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
+I hold a Master's degree in Mathematics and Computer Science, and am currently a PhD student conducting research on artificial intelligence and computer vision in agricultural technology. Alongside that research, I take on practical engineering work: not only ML-heavy builds, but also messenger bots (Telegram, WhatsApp, and similar channels), small backends and integrations, business process automation, and scripting to replace repetitive manual steps. I am open to employment and project-based work as a programmer and ML engineer. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
 
 ## 🔧 Skills:
 - **AI frameworks**: PyTorch, OpenCV
@@ -15,7 +15,7 @@ I hold a Master's degree in Mathematics and Computer Science, and am currently a
 
 -----------
 
-## Projects:
+## Featured projects
 
 ### **Tashkent real estate ecosystem for realtor Grigory Shif**
 
@@ -76,24 +76,6 @@ Intelligent legal assistant for real estate based on the RAG system with integra
 
 -----------
 
-### **GAN-MNIST-Fashion** 
-
-DCGAN for generating clothing images from Fashion‑MNIST.
-
-**Stack**: Python 3 + Jupyter Notebook, TensorFlow, Keras, NumPy, Matplotlib, Seaborn, Pillow, imageio, OpenCV
-
-[Project link](https://github.com/SC1DR-OFFICIAL/GAN-MNIST-Fashion)
-
------------
-
-### **WatermarkAutoencoder-AI**
-
-An autoencoder that reconstructs images distorted by watermarks.
-
-**Stack**: Python 3 + Jupyter Notebook, TensorFlow 2 (Keras API), OpenCV-Python (cv2), NumPy, scikit-learn, matplotlib 
-
-[Project Link](https://github.com/SC1DR-OFFICIAL/WatermarkAutoencoder-AI)
-
 ### **Telegram Star Invoice**
 
 Bill your clients in Telegram Stars (XTR) with just one command.
@@ -111,16 +93,6 @@ Social project in the field of children's sports "How to raise an Olympic champi
 **Stack**: Python, Aiogram 3, OpenAI, Posgresql
 
 [Link](https://t.me/ChildSportBot)
-
------------
-
-### **EVOGENESIS** 
-
-AI assistant with GPT: chat with memory, text and image generation, plus personal trainer for nutrition and training with progress tracking.
-
-**Stack**: Python, Aiogram 3, OpenAI, Posgresql
-
-[Link](https://t.me/evogenesis_bot)
 
 -----------
 
