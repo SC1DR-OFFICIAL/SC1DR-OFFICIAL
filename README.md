@@ -1,6 +1,8 @@
 🧑‍💻 About me:
 I hold a Master's degree in Mathematics and Computer Science, and am currently a PhD student conducting research on artificial intelligence and computer vision in agricultural technology. Alongside that research, I take on practical engineering work: not only ML-heavy builds, but also messenger bots (Telegram, WhatsApp, and similar channels), small backends and integrations, business process automation, and scripting to replace repetitive manual steps. I am open to employment and project-based work as a programmer and ML engineer. Thanks to my academic background, I have a deep understanding of the mathematical foundations of algorithms and can apply them in practice to solve complex problems.
 
+**Languages:** English and Russian  — comfortable for work, documentation, and client communication.
+
 ## 🔧 Skills:
 - **AI frameworks**: PyTorch, OpenCV
 - **RAG Systems**: LlamaIndex
@@ -18,6 +20,8 @@ I hold a Master's degree in Mathematics and Computer Science, and am currently a
 ## Featured projects
 
 ### **Tashkent real estate ecosystem for realtor Grigory Shif**
+
+![Tashkent real estate ecosystem — project overview](assets/Tashkent%20real%20estate%20ecosystem%20for%20realtor%20Grigory%20Shif.png)
 
 A Telegram-based platform that connects the public-facing experience with the team’s internal tools. Clients get a straightforward listings board: filter-based search, subscription options, and up-to-date offers focused on central Tashkent. The realtor and staff work in a CRM for inventory, day-to-day workflows, and AI-assisted handling of inquiries and content. A separate OLX monitoring pipeline, driven by configurable categories and tags, surfaces new and updated marketplace listings quickly. Publishing is wired end-to-end—listings can be pushed to Telegram channels and OLX without manual copy-paste. The system has already served thousands of users and listings.
 
