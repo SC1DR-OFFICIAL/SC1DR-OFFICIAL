@@ -27,7 +27,7 @@ A Telegram-based real estate platform that links the public listings experience 
 
 The standout piece is an AI secretary for back-office listing ops. It watches inbound realtor traffic in Telegram Business chats, helps the owner triage submissions, then turns messy multi-message ads into structured inventory: LLM field extraction, rule-based validation and clarifications, photo-based duplicate detection (pHash), and human-supervised publish / edit / delete that syncs the database, multiple Telegram channels, and OLX. Hybrid design—LLM for unstructured Russian/Uzbek realtor text, deterministic code for validation, dedup, and multi-channel sync—with a full audit trail of extractions and decisions. The system has already served thousands of users and listings.
 
-**Stack**: Python, Aiogram 3, aiohttp, BeautifulSoup4, SQLite (aiosqlite), Pydantic / pydantic-settings, OpenAI API, Google APIs, python-dotenv
+**Stack**: Python, Aiogram 3, aiohttp, BeautifulSoup4, SQLite (aiosqlite), Pydantic / pydantic-settings, OpenAI API / OpenRouter, Google APIs, ImageHash, DrissionPage, Docker, python-dotenv
 
 [Telegram bot link](https://t.me/Tashkent_estate_bot)
 
