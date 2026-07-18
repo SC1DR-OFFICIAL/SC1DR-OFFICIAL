@@ -21,7 +21,7 @@ I hold a Master's degree in Mathematics and Computer Science, and am currently a
 
 ### **cmdSave — production Telegram media platform**
 
-![cmdSave — project overview](assets/cmdSave_INTRO.mp4)
+![cmdSave](assets/cmdsave_intro_en.gif)
 
 Send a link — get the file. cmdSave downloads video (YouTube, Instagram, TikTok, VK and more), music (Yandex Music, VK, Spotify, SoundCloud), stock assets (Freepik, Artlist, Envato, Behance), and Sketchfab 3D models. Pick quality automatically or from a format menu, follow progress live, compress media if needed. Plus adds playlists, priority queue, large-file delivery, and stocks without per-file packs — paid via T-Kassa and Telegram Stars. RU/EN, public status page, support bot.
 
