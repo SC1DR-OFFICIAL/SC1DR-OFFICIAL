@@ -19,6 +19,20 @@ I hold a Master's degree in Mathematics and Computer Science, and am currently a
 
 ## Featured projects
 
+### **cmdSave — production Telegram media platform**
+
+![cmdSave — project overview](assets/cmdSave_INTRO.mp4)
+
+Send a link — get the file. cmdSave downloads video (YouTube, Instagram, TikTok, VK and more), music (Yandex Music, VK, Spotify, SoundCloud), stock assets (Freepik, Artlist, Envato, Behance), and Sketchfab 3D models. Pick quality automatically or from a format menu, follow progress live, compress media if needed. Plus adds playlists, priority queue, large-file delivery, and stocks without per-file packs — paid via T-Kassa and Telegram Stars. RU/EN, public status page, support bot.
+
+Built as a real production service, not a thin wrapper around a CLI tool: resilient downloads when sites change or break, browser-assisted flows where needed, smart format selection, delivery past Telegram size limits, a priority task queue, billing, and health checks. Docker, Postgres, Redis — the usual adult stack for something that has to stay up.
+
+**Stack**: Python 3.13, Aiogram 3, yt-dlp, FFmpeg, Redis, PostgreSQL, DrissionPage, Docker, T-Kassa / Telegram Stars
+
+[Telegram bot link](https://t.me/Tashkent_estate_bot)
+
+-----------
+
 ### **Tashkent real estate ecosystem for realtor Grigory Shif**
 
 ![Tashkent real estate ecosystem — project overview](assets/Tashkent%20real%20estate%20ecosystem%20for%20realtor%20Grigory%20Shif.png)
