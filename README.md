@@ -29,7 +29,7 @@ Built as a real production service, not a thin wrapper around a CLI tool: resili
 
 **Stack**: Python 3.13, Aiogram 3, yt-dlp, FFmpeg, Redis, PostgreSQL, DrissionPage, Docker, T-Kassa / Telegram Stars
 
-[Telegram bot link](https://t.me/Tashkent_estate_bot)
+[Telegram bot](https://t.me/cmdSaveBot) · [Status](https://status.cmdsave.ru/) · [Support](https://t.me/cmdSupportBot)
 
 -----------
 
