@@ -106,26 +106,6 @@ Bill your clients in Telegram Stars (XTR) with just one command.
 
 -----------
 
-### **Child Sports**
-
-Social project in the field of children's sports "How to raise an Olympic champion".
-
-**Stack**: Python, Aiogram 3, OpenAI, Posgresql
-
-[Link](https://t.me/ChildSportBot)
-
------------
-
-### **SkillPro Level 1**
-
-An educational bot game with multiple branches, a payment system in Telegram Stars and auto-generation of a document after completing the game. 
-
-**Stack**: Python, Aiogram 3, Aiohttp, Posgresql 
-
-[Link](https://t.me/skillpro_level1_bot)
-
------------
-
 ## 📖 Education:
 1. **Altai State University**, "Mathematics and Computer Science", 2019-2023, bachelor's degree.
 2. **Altai State University**, "Mathematics and Computer Science", 2023-2025, master's degree.
