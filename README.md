@@ -47,6 +47,18 @@ The standout piece is an AI secretary for back-office listing ops. It watches in
 
 -----------
 
+### **ApartmentScanner — web service built for a Tashkent real estate agency**
+
+![ApartmentScanner](assets/ApartmentScanner.gif)
+
+It collects sale listings from owners and other realtors in Telegram channels and chats. AI sorts those posts and turns them into ready cards in the format the agency ecosystem already uses, so they can be added to the main bot. Listings that are already in the database are recognized and marked with a badge, without an extra copy.
+
+Each card keeps the contacts in the order they appeared in the channels, with the price and date from that post. The earliest contact is usually the closest path to the owner; later ones are other realtors who picked the listing up.
+
+**Stack**: Python, Telethon, FastAPI, SQLite (aiosqlite), OpenRouter, ImageHash, Docker
+
+-----------
+
 ### **AIChatFlutter**
 
 A cross-platform mobile application for interacting with AI, built with Flutter.  
