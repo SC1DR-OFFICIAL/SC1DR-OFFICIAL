@@ -35,7 +35,7 @@ Built as a real production service, not a thin wrapper around a CLI tool: resili
 
 ### **Sanguisorba leaf veins — segmentation and morphometry**
 
-![Sanguisorba: leaf, predicted vein mask, overlay](assets/Sanguisorba leaf, predicted vein mask, overlay.png)
+![Sanguisorba: leaf, predicted vein mask, overlay](assets/Sanguisorba.png)
 
 Segments veins on leaf scans and turns the mask into measurements: central vein, branch angles, lengths. The network is trained on a public grapevine vein dataset and run on *Sanguisorba* herbarium images.
 
