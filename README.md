@@ -33,7 +33,7 @@ Built as a real production service, not a thin wrapper around a CLI tool: resili
 
 -----------
 
-### **Tashkent real estate ecosystem for realtor Grigory Shif**
+### **Tashkent real estate ecosystem**
 
 ![Tashkent real estate ecosystem — project overview](assets/Tashkent%20real%20estate%20ecosystem%20for%20realtor%20Grigory%20Shif.png)
 
