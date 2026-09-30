@@ -33,6 +33,19 @@ Built as a real production service, not a thin wrapper around a CLI tool: resili
 
 -----------
 
+### **Sanguisorba leaf veins — segmentation and morphometry**
+
+![Sanguisorba: leaf, predicted vein mask, overlay](assets/paper_fig6_morphometry.png)
+
+Segments veins on leaf scans and turns the mask into measurements: central vein, branch angles, lengths. The network is trained on a public grapevine vein dataset and run on *Sanguisorba* herbarium images.
+
+A scientific paper was written on this task: assessment of intra- and interspecific variability of *Sanguisorba* L. by leaf venation using deep learning transfer.
+
+**Stack**: Python, PyTorch, OpenCV, Albumentations, scikit-image, SciPy
+
+-----------
+
+
 ### **Tashkent real estate ecosystem**
 
 ![Tashkent real estate ecosystem — project overview](assets/Tashkent%20real%20estate%20ecosystem%20for%20realtor%20Grigory%20Shif.png)
@@ -84,7 +97,6 @@ The project includes training logs, visualizations of metrics (episode length, a
 [Project link](https://github.com/SC1DR-OFFICIAL/ppo-panda-uncertainty)
 
 -----------
-
 
 ### **Simple-RL-for-Atari-MsPacman**
 
