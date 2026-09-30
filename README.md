@@ -47,7 +47,7 @@ The standout piece is an AI secretary for back-office listing ops. It watches in
 
 -----------
 
-### **ApartmentScanner — web service built for a Tashkent real estate agency**
+### **ApartmentScanner — a web service for finding new listings in Telegram channels**
 
 ![ApartmentScanner](assets/ApartmentScanner.gif)
 
