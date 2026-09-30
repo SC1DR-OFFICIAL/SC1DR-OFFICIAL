@@ -45,6 +45,18 @@ A scientific paper was written on this task: assessment of intra- and interspeci
 
 -----------
 
+### **BioData Hub — a web portal for joint plant research**
+
+![BioData Hub](assets/BioData.jpeg)
+
+A workspace for biologists, ecologists, and breeders. Colleagues share a project, datasets of scans and measurements, and the roles around the work — from a herbarium sample to a result that can be published. Built-in vision tools take the routine measuring off the bench: leaf traits, variety identification, in a form another researcher can repeat.
+
+Two analyses are already live. An apple leaf returns the veins, morphometry, and a likely variety. Tomato seeds on a photo are found one by one and named. Either result downloads as a report.
+
+Stack: Python, PyTorch, OpenCV, FastAPI, React, Docker
+
+-----------
+
 
 ### **Tashkent real estate ecosystem**
 
