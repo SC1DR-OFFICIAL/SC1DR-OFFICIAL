@@ -47,7 +47,7 @@ A scientific paper was written on this task: assessment of intra- and interspeci
 
 ### **BioData Hub — a web portal for joint plant research**
 
-![BioData Hub](assets/BioData.jpg)
+![BioData Hub](assets/BioData.png)
 
 A workspace for biologists, ecologists, and breeders. Colleagues share a project, datasets of scans and measurements, and the roles around the work — from a herbarium sample to a result that can be published. Built-in vision tools take the routine measuring off the bench: leaf traits, variety identification, in a form another researcher can repeat.
 
